@@ -1,6 +1,6 @@
 ## Hi there, I'm Jimmy! 
 
-**Astronomy and Astrophysics '24 Student at The University of Nairobi'**
+**Astronomy and Astrophysics '24 Student at The University of Nairobi**
 
 - 💻 interested in systems programming, full stack web development and blockshain technology.
 - ✨ spending my free time volunteering at mentorspace - UNESCO club that teches young kids about robotics.
