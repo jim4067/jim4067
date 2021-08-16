@@ -1,10 +1,10 @@
 ## Hi there, I'm Jimmy! 
 
-**Astronomy and Astrophysics '24 Student at The University of Nairobi**
+**Astronomy and Astrophysics '24 at The University of Nairobi**
 
-- 💻 interested in cli apps, full stack web development and blockchain technology.
-- 🎨 looking foward to update my profile in the coming months... by the grace of God.
-- ✨ spending my free time doing stuff... so much stuff actually.... 
-- 📖 my hobbies include reading and watching a lot of anime.
-- 🌱 currently learning about asynchronous rust, blockchain development using the substrate framework.
+- 💻 I use Linux 🐧 and will propably rant about why it is better than Windows.
+- 🎨 I look forward to updating my profile 😂.
+- ✨ contributing to open source. 
+- 📖 my hobbies include reading and watching an unhealthy amount of TV (mostly anime).
+- 🌱 My primary development weapon of choice is rust 🦀 and JavaScript sometimes. 
 - ✉️ reach out to me on [jimmyimpulse(at)outlook(dot)com](mailto:jimmyimpulse@outlook.com) about new opportunities. I am always happy to learn new things. 
