@@ -1,6 +1,6 @@
 ## Hi there, I'm Jimmy! 
 
-**Astrophysics '24 at The University of Nairobi**
+**I study space stuff at The University of Nairobi**
 
 - 💻 I develop with Rust 🦀 and use an unhealthy amount of JavaScript.
 - 🐧 Linux Deepin is my daily driver.
