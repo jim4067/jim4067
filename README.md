@@ -1,2 +1,2 @@
 - 🎓 I study space stuff at The University of Nairobi.
-- ✉️ Reach out using 👉 [jimmyimpulse(at)outlook(dot)com](mailto:jimmyimpulse@outlook.com).
+- ✉️ Reach out using 👉 [jimiimutuku(at)outlook(dot)com](mailto:jimiimutuku@outlook.com).
