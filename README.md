@@ -1,3 +1,3 @@
 - 🎓 Astrophysics student at the University of Nairobi.
-- 👨‍💻 Building cool stuff on-chain on Solana, Ethereum and Polygon.
+- 👨‍💻 Building cool stuff on-chain on Solana, Celo, Ethereum and Polygon.
 - ✉️ Reach out using 👉 [jimiimutuku(at)outlook(dot)com](mailto:jimiimutuku@outlook.com).
