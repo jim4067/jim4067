@@ -1,2 +1,3 @@
-- 🎓 I study space stuff at The University of Nairobi.
+- 🎓 Astrophysics student at the University of Nairobi.
+- 👨‍💻 Building cool stuff on-chain on Solana, Ethereum and Polygon.
 - ✉️ Reach out using 👉 [jimiimutuku(at)outlook(dot)com](mailto:jimiimutuku@outlook.com).
